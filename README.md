@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋, I'm Naim Dali Hassen a Full Stack Web Developer 
 
-<!--
-**NaimDali/NaimDali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:mailbox: Reach me out!
 
-Here are some ideas to get you started:
+[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/dali_naim) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naim-dali-b1ab831a8/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/naim.dali/) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:naim.dali23@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working at @Tanit_Web
+- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 📫 How to reach me: naim.dali23@gmail.com.
+- ⚡ Fun fact: I play tennis and love camping.
+
+#### Top Technologies
+
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next Badge](https://img.shields.io/badge/-next-61DBFB?style=for-the-badge&labelColor=black&logo=next&logoColor=61DBFB)](#) [![Nest Badge](https://img.shields.io/badge/-Nest-61DBFB?style=for-the-badge&labelColor=black&logo=nest&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Symfony Badge](https://img.shields.io/badge/-Symfony-e535ab?style=for-the-badge&labelColor=black&logo=Symfony.js&logoColor=e535ab)](#)
+
+Byeeee 👋👋👋
