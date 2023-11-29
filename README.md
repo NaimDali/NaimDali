@@ -1,4 +1,4 @@
-### Hoooola👋, I'm Naim Dali Hassen a Full Stack Web Developer 
+### Hoooola👋, I'm Naim Dali a Full Stack Web Developer 
 
 :mailbox: Reach me out!
 
